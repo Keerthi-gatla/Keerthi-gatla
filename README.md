@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Keerthi-gatla
+- 👋 Hi, I’m Keerthi-gatla
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Node Js , Python
 - 📫 How to reach me keerthi.ece.software@gmail.com ,https://www.linkedin.com/in/keerthi-gatla/
